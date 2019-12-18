@@ -1,3 +1,5 @@
+"use strict";
+
 //Constants
 const TAX_RATE = 0.08; // 8% Tax rate
 const ACC_PRICE = 9.99; // $9.99
